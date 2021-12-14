@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Hyeri Choi
 
 # Username (this should match the folder name)
 authors:
@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+PhD Candidate
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: University of Pennsylvania, School of Social Policy & Practice
+  url: "https://www.sp2.upenn.edu/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -70,6 +70,9 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+
+Hyeri Choi is a PhD student at the School of Social Policy and Practice. Her research focuses on low-income working parents’ economic instability and work-family conflict. In particular, she is interested in how parental labor market experiences and income have an impact on a child’s well-being. She believes that it is imperative to reduce parents’ economic pressure, enhance their employment stability, and provide higher-quality early childcare to improve a child’s well-being.
+
+Hyeri received her Master’s degree in Social Work from Columbia University and dual Bachelor’s degrees in Social Work from Stony Brook University, New York and University of Seoul, South Korea. Prior to seeking a doctorate, she gained research experience in the Center for Research on Fathers, Children and Family Well-Being at Columbia University and Korea Institute for Health and Social Affairs(KIHASA). She was born and raised in South Korea and lived in the U.K. for five years. She expects to contribute her cultural background and educational opportunities to social and economic justice through research intervention.
+
